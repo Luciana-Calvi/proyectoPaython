@@ -30,7 +30,7 @@ Permite registrar estudiantes o participantes de cursos, validar la información
 
    Cloná el repositorio:
 
-   git clone https://github.com/TuUsuario/tu-repo.git
+   git clone https://github.com/Luciana-Calvi/proyectoPaython.git
 
 ## 📊 Funcionalidad de Excel
 
